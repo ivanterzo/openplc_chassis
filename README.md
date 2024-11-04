@@ -1,1 +1,1 @@
-# openplc_chassis
+I due file _stl.zip_ e _gcode.zip_, contengono rispettivamente i file _stl_ e _g-code_ usati per la stampa dello chassis del PLC basato sul microcontrollore ESP32 con firmware OpenPLC (https://autonomylogic.com/)
